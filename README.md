@@ -110,6 +110,8 @@ For a better preview of the themes, checkout the images in the `demo` folder.
 
 Favicons are located in `public/`, along with the other files you may want to upload to your website. I used this [website](https://www.favicon-generator.org/) to generate favicons.
 
+[Cheat Sheet](https://www.nerdfonts.com/cheat-sheet)
+
 ### Banner
 
 You may also want to change the output of the `banner` command. To do that, simply paste your generated banner in `src/utils/bin/commands.ts`. I used this [website](https://manytools.org/hacker-tools/ascii-banner/) to generate my banner.

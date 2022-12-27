@@ -1,21 +1,21 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "root_url": "oujonny.ch",
+  "readmeUrl": "https://raw.githubusercontent.com/oujonny/oujonny/main/README.md",
+  "title": "Livetearm | oujonny",
+  "name": "Johann Schley",
+  "ascii": "johann",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "oujonny",
+    "linkedin": "johannschley"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "jonny@immerda.ch",
+  "ps1_hostname": "oujonny.ch",
+  "ps1_username": "anonymous",
+  "repo": "https://github.com/oujonny/LiveTerm",
+  "resume_url":"https://www.linkedin.com/in/johannschley/",
+  "portrait_url": "content/portrait.jpeg",
+  "location": "Bern, Switzerland",
+  "job": "Site reliability engineer",
   "colors": {
     "light": {
       "background": "#FBF1C9",
@@ -25,15 +25,6 @@
       "gray": "#7C6F64",
       "blue": "#458588",
       "red": "#CA2124"
-    },
-    "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
     }
   }
 }

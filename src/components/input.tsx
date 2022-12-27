@@ -27,6 +27,10 @@ export const Input = ({
       setLastCommandIndex(0);
     }
 
+    if (event.key === 'u' && event.ctrlKey) {
+      event.preventDefault();
+      setCommand('');
+    }
     if (event.key === 'l' && event.ctrlKey) {
       event.preventDefault();
       clearHistory();
